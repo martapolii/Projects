@@ -1,0 +1,14 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\bin\Debug\net6.0\Question01-06.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\bin\Debug\net6.0\Question01-06.deps.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\bin\Debug\net6.0\Question01-06.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\bin\Debug\net6.0\Question01-06.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\bin\Debug\net6.0\Question01-06.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\refint\Question01-06.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\Question01-06.genruntimeconfig.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\1. Semester 1 - Winter 2024\COMP-100 Programming 1\Coding Assignments\Assignment06\Question01-06\obj\Debug\net6.0\ref\Question01-06.dll
