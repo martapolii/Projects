@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Contact Form</title>
+    <link rel="icon" type="image/x-icon" href="Images/logo.png">
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+
+  <body>
+    <div class="wrapper">
+    <header>
+      <div class="handlogo">
+        <img class="hlogo" src="Images/logo.png" alt="logo">
+        <h1 class="htext">MARTA'S MARVELOUS MANSIONS</h1>
+      </div>
+    </header>
+      <nav>
+        <a href="Home.html">HOME</a> &nbsp; &nbsp; &nbsp;
+        <a href="ActiveListings.html">ACTIVE LISTINGS</a> &nbsp; &nbsp; &nbsp;
+        <a style="color: #100c46;" href="Contact.html">CONTACT</a> &nbsp; &nbsp; &nbsp;
+        <a href="SiteMap.html">SITEMAP</a> &nbsp; &nbsp; &nbsp;
+      </nav>
+      <div class="columns">
+      <!--Agent photo + main contact information-->
+      <div>
+      <aside> 
+        <figure>
+          <img src="Images/marta6.png" alt="Photo of Marta, Real Estate Agent">
+          <br>
+          Phone: (647) 123 - 4567
+          <br>
+          Email: 
+          <a href="mailto:Marta@MarvelousMansions.ca">Marta@MarvelousMansions.ca</a>
+        </figure>
+      </aside>
+      </div>
+      <!-- The form: -->
+      <main>
+        <form action="mailto:marta@marvelousmansions.ca" method="post">
+          <fieldset>
+            <legend>
+              <b> Intersted in a Property? Submit the following form: </b>
+            </legend>
+            <p>
+              <label for="fname">*First Name:</label> 
+              <input type="text" id="fname" name="fname" size="28" required="required">
+            </p>
+            <p>
+              <label for="lname">*Last Name:</label>
+              <input type="text" id="lname" name="lname" size="28" required="required">
+            </p>
+            <p>
+              <label for="telephone">*Phone Number:</label> 
+              <input type="tel" id="telephone" size="28" required="required">
+            </p>
+            <p>
+              <label for="email">*Email:</label>
+              <input type="email" id="email" name="email" size="28" required="required">
+            </p>
+            <p>
+              <label for="TH">Type of property:</label>
+              <input type="radio" id="TH" name="propertyType" value="House"> House
+              <input type="radio" id="TC" name="propertyType" value="Condominium"> Condominium
+            </p>
+            <p>
+              <label for="numBed">Number of bedrooms:</label>
+              <input type="number" name="numBed" id="numBed" min="1" max="10">
+            </p>
+            <p>
+              <label for="numBath">Number of bathrooms:</label>
+              <input type="number" name="numBath" id="numBath" min="1" max="10">
+            </p>
+            <p>
+              <label for="priceRange">Price range:</label>
+              $1,000,000<input type="range" name="priceRange" id="priceRange">$30,000,000
+            </p>
+            <p>
+              <label for="comments">Additional comments:</label>
+              <textarea id="comments" name="comments" rows="6" placeholder="Feel free to note any additional preferences or requests here."></textarea>
+            </p>
+          </fieldset>
+          <p style="margin-left:20px">
+            <input name="Bsub" type="submit" value="Submit">
+            <input name="Bclear" type="reset" value="Clear Form">
+          </p>
+        </form>
+      </main>
+      </div>  
+      <footer>
+        <p><p><small><i>Copyright © Marta Polishchuk. 2024. Student #301432299. COMP213-402 Term Project</i></small></p></p>
+      </footer>
+    </div>  
+  </body>
+</html>
