@@ -1,0 +1,52 @@
+
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  background-color: rgba(255, 228, 196, 0.596);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  width:100%;
+  font-size: 4em;
+  font-family:fantasy;
+  background-color: rgb(124, 1, 83);
+  color: rgb(229, 182, 248);
+}
+
+h1 {
+margin:0;
+}
+
+main{
+flex-grow: 1; /* this + making sure bodies min-height is set to 100vh ensures footer is glued to bottom!!! */
+}
+
+.buttons{
+  padding: 20px;
+}
+
+button{
+  padding: 10px;
+  margin: 20px;
+}
+
+canvas{
+  border: 10px solid rgb(124, 1, 83);
+  margin-top: 10px;
+}
+
+footer {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+  padding-bottom: 10px;
+  color: rgb(82, 82, 82);
+}
