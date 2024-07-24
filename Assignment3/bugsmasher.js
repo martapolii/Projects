@@ -1,7 +1,9 @@
 // Marta Polishchuk
 // 301432299
 // COMP125: Client Side Web Development Sec: 402
-// Assignment 2
+// Assignment 3
+
+// used this website as a guide (as per assignment instructions): http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 
 /*----------- Create a Canvas -----------*/
 var canvas = document.createElement("canvas"); // create canvas element 
