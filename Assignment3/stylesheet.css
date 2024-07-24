@@ -14,7 +14,6 @@ body {
 
 header {
   width:100%;
-  font-size: 4em;
   font-family:fantasy;
   background-color: rgb(124, 1, 83);
   color: rgb(229, 182, 248);
@@ -22,6 +21,7 @@ header {
 
 h1 {
 margin:0;
+font-size: 12vw; /* use VW to have responsive font sizes */
 }
 
 main{
